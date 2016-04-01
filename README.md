@@ -27,4 +27,4 @@ Se realizará un análisis de Cubrimiento usando blanketjs.
 
 ### Badge Travis
 
-* [![Build Status](https://travis-ci.org/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2.svg?branch=gh-pages)](https://travis-ci.org/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2)
+[![Build Status](https://travis-ci.org/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2.svg?branch=master)](https://travis-ci.org/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2)
