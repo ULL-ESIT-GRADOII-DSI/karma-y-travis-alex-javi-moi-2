@@ -6,6 +6,6 @@ before_install:
 - sh -e /etc/init.d/xvfb start
 branches:
 only:
-- gh-pages
+- master
 notifications:
   email: false
