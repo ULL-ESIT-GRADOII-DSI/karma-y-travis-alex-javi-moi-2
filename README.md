@@ -23,3 +23,8 @@ Se realizará un análisis de Cubrimiento usando blanketjs.
 
 #####Moisés
 * [Página personal](http://alu0100782851.github.io/)
+
+
+### Badge Travis
+
+* [![Build Status](https://travis-ci.org/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2.svg?branch=master)](https://travis-ci.org/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2)
