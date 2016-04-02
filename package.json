@@ -2,9 +2,10 @@
   "name": "Conversor",
   "version": "0.0.1",
   "description": "Conversor javascript de tipos",
-  "main": "conversor.js",
+  "main": "main.js",
   "scripts": {
     "test": "mocha test",
+    "karma": "./node_modules/karma/bin/karma start --single-run",
     "chai": "curl https://raw.githubusercontent.com/chaijs/chai/master/chai.js -o test/chai.js"
   },
   "repository": {
