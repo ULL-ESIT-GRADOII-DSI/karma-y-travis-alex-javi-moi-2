@@ -19,8 +19,12 @@ module.exports = function(config) {
     },
 
     plugins : [
-        'karma-mocha'
+        'karma-mocha',
+        'karma-phantomjs-launcher',
+        'karma-chrome-launcher',
+        'karma-firefox-launcher'
     ],
+
 
     // list of files / patterns to load in the browser
     files: [
