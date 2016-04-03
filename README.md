@@ -8,6 +8,9 @@ Partiendo de la práctica de Mocha, Chai y Sinon se añadirá la ejecución de l
 
 * [Página de la práctica](http://ull-esit-gradoii-dsi.github.io/karma-y-travis-alex-javi-moi-2/)
 
+### Página de test
+
+* [Página de test](http://ull-esit-gradoii-dsi.github.io/karma-y-travis-alex-javi-moi-2/test/)
 
 ### Repositorios organización
 * [Repositorio](https://github.com/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2)
