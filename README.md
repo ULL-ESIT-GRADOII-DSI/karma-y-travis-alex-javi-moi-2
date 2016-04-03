@@ -1,18 +1,16 @@
-#**Practica 5 de Desarrollo de Sistemas Informáticos. Mocha y Chai**
+#**Practica 6 de Desarrollo de Sistemas Informáticos. Karma y Travis**
 
-Esta práctica consistirá en realizar las pruebas necesarias para comprobar que la práctica anterior funciona correctamente.
-Se realizarán pruebas para cada una de las clases definidas y cada uno de los métodos dentro de dichas clases.
-Se realizará un análisis de Cubrimiento usando blanketjs.
+Partiendo de la práctica de Mocha, Chai y Sinon se añadirá la ejecución de las pruebas con Karma y Travis.
 
-[Descripcion de la practica](https://campusvirtual.ull.es/1516/mod/page/view.php?id=182938)
+[Descripcion de la practica](https://campusvirtual.ull.es/1516/mod/page/view.php?id=185189)
 
 ### Despliegue en github.io
 
-* [Página de la práctica](http://ull-esit-gradoii-dsi.github.io/mocha-y-chai-alex-javi-moi/)
+* [Página de la práctica](http://ull-esit-gradoii-dsi.github.io/karma-y-travis-alex-javi-moi-2/)
 
 
 ### Repositorios organización
-* [Repositorio](https://github.com/ULL-ESIT-GRADOII-DSI/mocha-y-chai-alex-javi-moi)
+* [Repositorio](https://github.com/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2)
 
 ###Páginas personales
 #####Alexander
