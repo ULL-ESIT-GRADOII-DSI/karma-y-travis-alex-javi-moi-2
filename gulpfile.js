@@ -48,6 +48,6 @@ gulp.task('clean', function(cb) {
 });
 
 gulp.task('deploy', function() {
-      return gulp.src('./minified/**/*')
+      return gulp.src('./minified/')
         .pipe(ghPages());
 });
