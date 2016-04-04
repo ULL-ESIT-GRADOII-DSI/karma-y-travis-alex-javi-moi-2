@@ -28,6 +28,12 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
+      './xregexp-all.js',
+      './assets/js/Medida.js',
+      './assets/js/Temperatura.js',
+      './assets/js/Distancia.js',
+      './assets/js/Moneda.js',
+      './assets/js/main.js',
       './test/*.js',
       './test/index.html'
     ],
@@ -69,8 +75,13 @@ module.exports = function(config) {
 
     // start these browsers
     // available browser launchers: https://npmjs.org/browse/keyword/karma-launcher
-    browsers: ['Chrome', 'Firefox'],
-
+    browsers: ['PhantomJS', 'Firefox', process.env.TRAVIS ? 'Chrome_travis_ci' : 'Chrome'],
+    customLaunchers: {
+       Chrome_travis_ci: {
+         base: 'Chrome',
+         flags: ['--no-sandbox']
+       }
+     },
 
     // Continuous Integration mode
     // if true, Karma captures browsers, runs the tests and exits
