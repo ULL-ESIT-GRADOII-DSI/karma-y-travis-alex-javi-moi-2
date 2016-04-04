@@ -16,7 +16,7 @@ Partiendo de la práctica de Mocha, Chai y Sinon se añadirá la ejecución de l
 * [Repositorio](https://github.com/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2)
 
 ### Página en Travis
-* [Repositorio](https://travis-ci.org/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2)
+* [Página en Travis](https://travis-ci.org/ULL-ESIT-GRADOII-DSI/karma-y-travis-alex-javi-moi-2)
 
 ###Páginas personales
 #####Alexander
