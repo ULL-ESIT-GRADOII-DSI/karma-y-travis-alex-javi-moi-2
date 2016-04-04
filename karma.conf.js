@@ -14,7 +14,7 @@ module.exports = function(config) {
     
     client : {
       mocha : {
-          ui : 'tdd'
+          ui : 'bdd'
       }
     },
 
@@ -35,7 +35,8 @@ module.exports = function(config) {
       './assets/js/Moneda.js',
       './assets/js/main.js',
       './test/*.js',
-      './test/index.html'
+      './test/index.html',
+      './test/sinon-1.17.2.js'
     ],
 
 
